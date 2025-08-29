@@ -1,0 +1,11 @@
+Employee_ID,Employee_Name,Role,Hours_Worked,Hourly_Rate,Total_Pay
+E001,John Doe,Engineer,160,40,6400
+E002,Jane Smith,Foreman,170,35,5950
+E003,Alex Brown,Worker,150,20,3000
+E004,Emily Davis,Worker,155,20,3100
+E005,Michael Lee,Technician,165,25,4125
+E006,Sophia Wilson,Supervisor,175,38,6650
+E007,David Johnson,Worker,160,22,3520
+E008,Linda Martinez,Worker,150,21,3150
+E009,James White,Driver,140,24,3360
+E010,Olivia Harris,Operator,165,26,4290
